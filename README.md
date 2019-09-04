@@ -1,4 +1,5 @@
 # simple maven-project
 
-modif 1
- 
+voici une magnification première modification. 
+M. Norman Doyle: Ce problème nous occupe tous depuis un an ou un an et demi, depuis
+le moment de la première modification.
